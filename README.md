@@ -57,3 +57,6 @@ new $.fn.dataTable.DtColSearch(dt, {
 ##Responsive Integration
 A special event needed to be added to the Responsive plugin for proper integration.  This change is waiting
 approval into the master DataTables/Responsive repo.  In the mean time, you can grab a modified copy from [here](https://github.com/zepernick/Responsive/tree/resize-event)
+
+##JSFiddle Example
+[DataTables-ColumnSearching in action](http://jsfiddle.net/zepernick/s7xmz7g3/)
