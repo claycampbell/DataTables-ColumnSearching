@@ -12,7 +12,7 @@ Add search controls for columns in the header or footer of the table
                     in the String "avalue|Text To Display".  
                     The plugin will assign the String to the value and text of the option if the pipe is omitted.
      				
-     				**or a function** `function(select)`:  
+     				**or a function** function(select){ }  
     				The function will be responsible for appending the `<option/>` elements to the select passed in.  
     				The select it a jQuery object.  
     				
